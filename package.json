@@ -1,0 +1,23 @@
+{
+	"name": "bmo-system",
+	"version": "0.0.1",
+	"description": "System plugin for BMO",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/stevestreza/bmo-plugin-system.git"
+	},
+	"keywords": [
+		"bmo",
+		"bmo-plugin",
+		"xmpp"
+	],
+	"author": "Steve Streza",
+	"license": "BSD",
+	"bugs": {
+		"url": "https://github.com/stevestreza/bmo-plugin-stats/issues"
+	},
+	"peerDependencies": {
+		"bmo": "0.0.1"
+	}
+}
